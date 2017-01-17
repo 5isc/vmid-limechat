@@ -1,0 +1,54 @@
+# All colors must be in the form of '#rrggbb' or '#rgb'.
+# You cannot use color names.
+
+log-view:
+  nickname-format: '(%n) '
+  scroller-highlight-color: '#607D8B'
+input-text:
+  font-family: 'Envy Code R'
+  font-size: 9.0
+  background-color: '#263238'
+  color: '#E0F7FF'
+  selected:
+    background-color: '#607D8B'
+member-list:
+  font-family: 'Envy Code R'
+  font-size: 9.0
+  color: '#E07F7FF'
+  background-color: '#263238'
+  operator:
+    color: '#00E5FF'
+  selected:
+    color: '#607D8B'
+    background:
+      # gradient
+      top-line-color: '#263238'
+      bottom-line-color: '#263238'
+      top-color: '#263238'
+      bottom-color: '#263238'
+server-tree:
+  font-family: 'Envy Code R'
+  font-size: 9.0
+  background-color: '#263238'
+  highlight:
+    color: '#607D8B'
+  newtalk:
+    color: '#E0F7FF'
+  unread:
+    color: '#00E5FF'
+  normal:
+    active:
+      color: '#E0F7FF'
+    inactive:
+      color: '#607D8B'
+  selected:
+    active:
+      color: '#00E676'
+    inactive:
+      color: '#FFB74D'
+    background:
+      # gradient
+      top-line-color: '#263238'
+      bottom-line-color: '#263238'
+      top-color: '#263238'
+      bottom-color: '#263238'
