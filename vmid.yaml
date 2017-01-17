@@ -14,7 +14,7 @@ input-text:
 member-list:
   font-family: 'Envy Code R'
   font-size: 9.0
-  color: '#E07F7FF'
+  color: '#546E7A'
   background-color: '#263238'
   operator:
     color: '#00E5FF'
